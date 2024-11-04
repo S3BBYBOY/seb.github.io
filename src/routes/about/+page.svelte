@@ -1,29 +1,11 @@
-<h1 class="text-4xl text-center mb-4">About</h1>
-<div class="flex flex-col items-center"></div>
-  
-<div>
-    <img src="ze-v.jpg" alt="seb" class="w-full h-auto max-w-sm rounded-lg mx-auto" />
+<div class="flex flex-col md:flex-row justify-center items-center">
+    <div class="w-full md:w-1/2 bg-gray-100 p-8 text-gray-700 rounded-lg shadow-lg mb-6 md:mb-0"> 
+        <h2 class="text-2xl font-bold mb-4">A LITTLE BIT ABOUT ME</h2>
+        <p class="text-justify">I studied at St. Joseph College from elementary to senior high school, where my interest in technology began to develop, even though Information Technology was not my main focus at the time. Initially, Information Technology wasn't my first choice, but as I explored the field, I discovered a passion for it that I never expected, leading me to embrace it wholeheartedly.</p>
+        <p class="mt-4 text-justify">Starting this journey with little knowledge of computers has been challenging, but I’ve grown to enjoy the learning process. Every day brings new challenges and opportunities, and I'm excited to expand my skills in the world of technology.</p>
+    </div>
+    <div class="w-full md:w-1/2 flex justify-center items-center"> 
+        <img src="portfolio/sebby.jpg" alt="player" class="h-auto max-w-full w-3/4 rounded-full shadow-md"> 
+    </div>
 </div>
-<div class="w-full max-w-2xl">
-    <div class="flex flex-col gap-4 text-gray-300">
-        
-		<p>
-			Hi, I'm Ze-v De Guzman Jardin. I'm currently a 3rd-year college student pursuing a Bachelor of Science 
-            in Information Technology at Gordon College.
-			Information Technology wasn't my first course choice because my dream was to become a Culinary student, 
-            but for some reason, I ended up in technology. 
-			Now, my dream is to become a web developer and gain more knowledge about the tech industry. 
-			However, I'm not yet confident in my skills and know I still have a lot to learn in IT.
-		</p>
 
-		<p>
-			I'm just a simple guy who enjoys the outdoors, and has a passion for sports like basketball and bowling
-             all while cherishing time spent with friends
-		</p>
-
-		<p>I am excited about the future and envision myself becoming a web developer in the coming years. 
-            This portfolio will showcase my achievements and successes throughout my journey. 
-            I believe that nothing is impossible—have faith, trust in God, and know that you can achieve your goals.
-		</p>
-	</div>
-</div>
