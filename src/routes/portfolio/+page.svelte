@@ -2,19 +2,19 @@
 	const portfolioImages = [
 		{
 			alt: "Joining Webinar to gain more knowledge ",
-			src: "Portfolio/8-bit-clarity.jpg",
+			src: "Portfolio/appdev3.jpg",
 		},
 		{
-			alt: "Application Development Blog project",
-			src: "Portfolio/blogproject.jpg",
+			alt: "Application Development Appointing project",
+			src: "Portfolio/appdev.jpg",
 		},
 		{
-			alt: "Application Development Blog projec",
-			src: "Portfolio/blogproject1.jpg",
+			alt: "Application Development Appointing projec",
+			src: "Portfolio/appdev2.jpg",
 		},
 		{
 			alt: "Latest sports ",
-			src: "Portfolio/bowling.jpg",
+			src: "Portfolio/sebby.jpg",
 		} 
 	];
 </script>

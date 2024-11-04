@@ -2,7 +2,7 @@
 <div class="flex flex-col items-center"></div>
   
 <div>
-    <img src="pau1.jpg" alt="pawwii" class="w-full h-auto max-w-sm rounded-lg mx-auto" />
+    <img src="ze-v.jpg" alt="seb" class="w-full h-auto max-w-sm rounded-lg mx-auto" />
 </div>
 <div class="w-full max-w-2xl">
     <div class="flex flex-col gap-4 text-gray-300">
